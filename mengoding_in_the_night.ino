@@ -112,6 +112,7 @@ void loop()
   sensorUpdate();
   initRelay();
   initLed();
+  delay(250);
 }
 
 
